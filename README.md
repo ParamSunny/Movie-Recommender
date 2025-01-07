@@ -11,14 +11,19 @@ This combination of technologies ensures an efficient and enjoyable user experie
 ## Technologies Used
 
 **Programming Languages:-** Python
+
 **Frameworks and Libraries:-** Pandas, NumPy, ATS, SkLearn(CountVectorizer), NLTK, Streamlit.
+
 **Tools:-** PyCharm, Docker
 
 Docker Image link:- https://hub.docker.com/repository/docker/sunny783/movies-recommender/general
 
 ## How To Run By Docker ##
 **Step 1:-** Download Docker desktop (https://www.docker.com/products/docker-desktop/)
+
 **Step 2:-** Open command prompt on your system.
+
 **Step 3:-** Write this command to run movie-recommender-system.
+
 `docker run -p 8501:8501 sunny783/movies-recommender`
 **Step 4:-** Open localhost:8501 on your browser OR run by link shown in your command prompt
