@@ -25,6 +25,6 @@ Docker Image link:- https://hub.docker.com/repository/docker/sunny783/movies-rec
 
 **Step 3:-** Write this command to run movie-recommender-system.
 
->docker run -p 8501:8501 sunny783/movies-recommender
+> docker run -p 8501:8501 sunny783/movies-recommender
 
 **Step 4:-** Open localhost:8501 on your browser OR run by link shown in your command prompt
