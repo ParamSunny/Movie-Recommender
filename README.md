@@ -32,3 +32,5 @@ docker run -p 8501:8501 sunny783/movies-recommender
 ```
 
 **Step 4:-** Open localhost:8501 on your browser OR run by link shown in your command prompt
+
+![alt text](Demo.png)
