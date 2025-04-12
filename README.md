@@ -18,7 +18,7 @@ This combination of technologies ensures an efficient and enjoyable user experie
 
 **Docker Image link:-** https://hub.docker.com/repository/docker/sunny783/movies-recommender/general
 
-**Dataset kink:-** https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+**Dataset link:-** https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## How To Run By Docker ##
 **Step 1:-** Download Docker desktop (https://www.docker.com/products/docker-desktop/)
